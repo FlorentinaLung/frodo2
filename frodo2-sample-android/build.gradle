@@ -6,7 +6,7 @@ buildscript {
   }
   dependencies {
     classpath "com.android.tools.build:gradle:$project.androidBuildToolsVersion"
-    classpath "com.github.FlorentinaLung:frodo2:jitpack-SNAPSHOT"
+    classpath "com.fernandocejas.frodo2:frodo2-plugin:$project.version"
   }
 }
 
